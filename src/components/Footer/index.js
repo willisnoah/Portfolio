@@ -10,11 +10,11 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/in/noah-willis-799020295/"
     },
     {
       name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      link: "https://stackoverflow.com/users/22708560/willisn"
     }
   ]
 
